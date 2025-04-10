@@ -26,6 +26,9 @@ python infer_SHFA.py
 
 If the process goes smoothly, the output accuracy of HFA and SHFA would be around 0.582716 and 0.570370 seperately.
 
+## dataset
+The default dataset is [Office-31](https://gitcode.com/gh_mirrors/tr/transferlearning/tree/master/data). In order to achieve a better presentation for the evaluation, we suggest that you download this dataset first.
+
 ## references
 
 ```
